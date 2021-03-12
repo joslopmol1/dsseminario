@@ -1,0 +1,3 @@
+class hola{
+	public void ();
+}
